@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 211638401
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newmodel
+      Dependencies: {}
